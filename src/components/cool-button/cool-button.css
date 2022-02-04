@@ -1,0 +1,26 @@
+:host {
+  display: block;
+}
+
+button {
+  padding: 10px 15px;
+  border-radius: 4px;
+  border: none;
+}
+
+button:hover {
+  cursor: pointer;
+}
+
+.primary {
+  background-color: #52a0e9;
+}
+
+.secondary {
+  background-color: #748fe8;
+}
+
+.dark {
+  background-color: #2c3a68;
+  color: #fafafa;
+}
